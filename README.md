@@ -39,6 +39,6 @@ which conditions lead to increased sales.
 1. A written report to be presented to the directors of the company.
 2. An Excel workbook showcasing the visualized data.
 3. An Excel workbook showing the projections and regressions done.
-4. A Google collab notebook with the codes used for the sentiment, association.
-5. All the datasets used in the analysis.
+4. A Google colab notebook with the codes used for the sentimen and association analysis 
+5. All the datasets used for the analysis.
 
